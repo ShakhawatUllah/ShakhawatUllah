@@ -1,4 +1,4 @@
-My name is shakhawat ullah
+My name is Shakhawat Ullah
 **sumantex2-ux/sumantex2-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
